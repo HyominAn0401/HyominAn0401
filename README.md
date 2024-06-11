@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5CC&height=300&section=footer&text=&fontColor=ffffff" />
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5CC&height=300&section=footer&text=&fontColor=ffffff" />-->
