@@ -1,9 +1,11 @@
 ## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF5733,100:900C3F&height=300&section=header&text=Welcome%20to%20My%20Project&fontSize=50" />
 
 <!--
 **HyominAn0401/HyominAn0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
