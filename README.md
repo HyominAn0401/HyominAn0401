@@ -1,20 +1,20 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5CC&height=300&section=header&text=Welcome&fontSize=90&fontColor=ffffff&animation=fadeIn" />-->
 
 
-<div align="center">
+<!--<div align="center">-->
 
   
-  #### 💬 SNS
+ <!-- #### 💬 SNS
   <!--![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  ![blog](https://img.shields.io/badge/Blog-2DB400?style=for-the-badge&logo=&logoColor=white)-->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyomin-an-6b287a255/)
-  [![Blog](https://img.shields.io/badge/Blog-2DB400?style=for-the-badge&logo=&logoColor=white)](https://blog.naver.com/slhm7547)
-  
+  <!--![blog](https://img.shields.io/badge/Blog-2DB400?style=for-the-badge&logo=&logoColor=white)-->
+ <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyomin-an-6b287a255/)
+ <!-- [![Blog](https://img.shields.io/badge/Blog-2DB400?style=for-the-badge&logo=&logoColor=white)](https://blog.naver.com/slhm7547)
+  -->
   &nbsp;
   &nbsp;
   
   😃
-  I am constantly learning and mastering various technologies, <br>especially in Backend development.
+  I am constantly learning and mastering various technologies, especially in Backend development.
   
   &nbsp;
   
@@ -36,7 +36,7 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyominAn0401&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-</div>
+<!--</div>-->
 
 
 
