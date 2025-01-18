@@ -39,7 +39,7 @@
 
 
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyominAn0401&show_icons=true&theme=radical)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyominAn0401&show_icons=true&theme=radical)
 
 <!--
 **HyominAn0401/HyominAn0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
