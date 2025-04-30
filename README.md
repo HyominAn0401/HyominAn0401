@@ -3,7 +3,7 @@
   ## Hello I'm Hyomin An
   
   😃
-  I am constantly learning and mastering various technologies, especially in Backend development and Cloud technologies.
+  I am constantly learning and mastering various technologies, especially in Backend development and Cloud
   
   &nbsp;
   
