@@ -18,8 +18,6 @@
 
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-  &nbsp;
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyominAn0401&show_icons=true&theme=radical)
